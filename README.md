@@ -22,7 +22,7 @@ My name is Maycol José Yesid Moreno Daza. Systems Engineer with a deep passion 
 
 ## Tech stack
 ### Data Engineering
-- **Programming Languages**
+- **Programming Languages & Databases**
    
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL&logoColor=4479A1)
