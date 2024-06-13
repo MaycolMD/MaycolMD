@@ -29,7 +29,8 @@ My name is Maycol José Yesid Moreno Daza. Systems Engineer with a deep passion 
   ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=flat-square)
 
 - **Technologies**
-  
+
+  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
   ![BigQuery](https://img.shields.io/badge/SQL-Google%20BigQuery-4285F4?logo=google%20cloud)
   ![DBT](https://img.shields.io/badge/Data%20Build%20Tool%20-%20Red?style=flat&logo=dbt&color=blue)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
