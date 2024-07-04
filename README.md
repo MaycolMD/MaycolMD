@@ -35,6 +35,7 @@ My name is Maycol José Yesid Moreno Daza. Systems Engineer with a deep passion 
   ![DBT](https://img.shields.io/badge/Data%20Build%20Tool%20-%20Red?style=flat&logo=dbt&color=blue)
   ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
   ![Apache Hive](https://img.shields.io/badge/-Apache%20Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
+  ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
 
 - **Libraries & Frameworks**
 
